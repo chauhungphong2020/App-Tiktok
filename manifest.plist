@@ -11,13 +11,13 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://github.com/chauhungphong2020/App-Tiktok/releases/download/v1/TikTok_45.3.0_1781331481.ipa</string>
+                    <string>https://github.com/chauhungphong2020/App-Tiktok/releases/download/v1/TikTok_45.7.0_1782616060.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.ss.iphone.ugc.Ame</string>
+                <string>com.ss.iphone.ugc.Ame1</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
